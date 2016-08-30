@@ -1,6 +1,6 @@
 ## GitHub Sample Project
 
-Welcome to to the awesome GitHub demonstration project. This repository has been created for the benefit of ETS at Foothill-De Anza Community College District to see real life examples of how to implement the standards for Git repositories of public projects.
+Welcome to the awesome GitHub demonstration project. This repository has been created for the benefit of ETS at Foothill-De Anza Community College District to see real life examples of how to implement the standards for Git repositories of public projects.
 
 ### Installation
 
