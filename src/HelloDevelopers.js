@@ -29,7 +29,6 @@
  */
 
 var developers = [
-	"Matt",
 	"Kevin",
 ];
 
