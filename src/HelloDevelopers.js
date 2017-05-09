@@ -33,7 +33,7 @@ var developers = [
 	"Matt"
 ];
 
-text = "Known Developers:\n";
+text = "Known Devs:\n";
 
 dLen = developers.length;
 for (i=0; i < dLen; i++) {
