@@ -31,7 +31,8 @@
 var developers = [
 	"Kevin",
 	"Matt",
-	"Ron"
+	"Ron",
+	"Irma"
 ];
 
 text = "Known Devs:\n";
